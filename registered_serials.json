@@ -12,5 +12,12 @@
         "user_id": 12345678,
         "username": "YukiUser",
         "status": "AUTHORIZED"
+    },
+    "F2LYV11EKXL8": {
+        "serial": "F2LYV11EKXL8",
+        "registered_at": "2026-09-12 04:32:05",
+        "user_id": 5280561787,
+        "username": "Yova21f",
+        "status": "AUTHORIZED"
     }
 }

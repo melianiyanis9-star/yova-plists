@@ -1,0 +1,16 @@
+{
+    "DNPXR000TEST": {
+        "serial": "DNPXR000TEST",
+        "registered_at": "2026-09-12 04:26:44",
+        "user_id": 0,
+        "username": "Admin",
+        "status": "AUTHORIZED"
+    },
+    "F2LNQTEST001": {
+        "serial": "F2LNQTEST001",
+        "registered_at": "2026-09-12 04:27:50",
+        "user_id": 12345678,
+        "username": "YukiUser",
+        "status": "AUTHORIZED"
+    }
+}
